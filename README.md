@@ -2,7 +2,7 @@
 <H3>ENTER YOUR NAME : NAVINKUMAR S</H3>
 <H3>ENTER YOUR REGISTER NO. 212224110041</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: </H3>
+<H3>DATE:28/02/2026</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
